@@ -29,8 +29,6 @@ Figure -01 PROM
 
 6.Generate RTL and TIMINIG DIAGRAM
 
-
-
 ### PROGRAM 
 ```
 
@@ -66,26 +64,15 @@ out = Rom[addr];
 end
 endmodule
 
-
-
-
-
-
+```
 
 ### RTL LOGIC  
 
+![output](rtl0.png)
 
+### TIMING DIAGRAMS  
 
-
-
-
-
-
-
-### TIMING DIGRAMS  
-
-
-
+![output](tym.png)
 
 
  
